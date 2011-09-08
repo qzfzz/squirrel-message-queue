@@ -1,0 +1,8 @@
+gcc -o squirrel ae.o slabs.o dlist.o squirrel.o -llua -lpthread -lm -ldl
+
++--------------------------------------------+
+|            Finish compilation              |
++--------------------------------------------+
+|         Thanks using SquirrelMQ            |
+|   copyright(c)Liexusong 280259971@qq.com   |
++--------------------------------------------+
